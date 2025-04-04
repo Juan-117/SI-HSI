@@ -67,13 +67,13 @@ Python 3.10
 
 # 📁 Estructura del Proyecto
 
-SI_HSI/
-         │
-         ├── audio_app.py         # Código principal de la aplicación
-         ├── requirements.txt     # Librerías necesarias
-         ├── README.md            # Este archivo con el instructivo
-         ├── pyproject.toml       # Configuración de Black
-         └── .gitignore           # Archivos ignorados por Git
+    SI_HSI/
+          │
+          ├── audio_app.py         # Código principal de la aplicación
+          ├── requirements.txt     # Librerías necesarias
+          ├── README.md            # Este archivo con el instructivo
+          ├── pyproject.toml       # Configuración de Black
+          └── .gitignore           # Archivos ignorados por Git
 
 # 👨‍💻 Autor
 Juan Antonio
