@@ -2,6 +2,7 @@
 
 Este proyecto permite aplicar filtros digitales (pasa-bajas, pasa-altas y pasa-banda) a archivos de audio .wav (mismos que se pueden subir o grabar directamente) mediante una interfaz web desarrollada con Gradio.También se puede visualizar la señal original, la señal filtrada y su análisis de frecuencia (FFT).
 
+
 # 🧪 Instructivo paso a paso
  1. Abre tu terminal
  2. Entra a la carpeta del proyecto
@@ -23,6 +24,7 @@ Ejecuta la aplicación:
 Abre tu navegador y entra a:
 
     http://localhost:7860
+
     
 
  # En la interfaz web:
@@ -40,9 +42,11 @@ Abre tu navegador y entra a:
  6. Descarga el archivo procesado si lo deseas
 
 
+
 # 🛠 Requisitos
 
 Python 3.10
+
 
 
 # Las siguientes librerías (incluidas en requirements.txt):
@@ -58,6 +62,7 @@ Python 3.10
  scipy
 
  soundfile
+
 
 
 # 📁 Estructura del Proyecto
