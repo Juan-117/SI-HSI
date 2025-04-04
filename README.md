@@ -49,7 +49,7 @@ Python 3.10
 
 
 
-# Se utilizan las siguientes librerías (incluidas en requirements.txt):
+# Se utilizan las siguientes librerías:
 
  gradio
 
