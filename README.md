@@ -76,6 +76,6 @@ Python 3.10
           └── .gitignore           # Archivos ignorados por Git
 
 # 👨‍💻 Autor
-Juan Antonio
+Juan Antonio Mancera Velasco
 
 Proyecto académico — Tecnológico de Monterrey (2025)
