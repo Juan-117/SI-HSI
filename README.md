@@ -77,4 +77,5 @@ Python 3.10
 
 # 👨‍💻 Autor
 Juan Antonio
+
 Proyecto académico — Tecnológico de Monterrey (2025)
