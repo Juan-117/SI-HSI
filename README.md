@@ -29,17 +29,20 @@ Abre tu navegador y entra a:
 
  # En la interfaz web:
 
- 1. Sube un archivo de audio .wav o graba directo en el navegador otorgando permisos a la aplicación
+ 1. Sube un archivo de audio .wav o graba directo en el navegador otorgando permisos a la aplicación (Sección 1)
 
- 2. Selecciona el tipo de filtro que quieres aplicar
+ 2. Selecciona el tipo de filtro que quieres aplicar (Sección 2)
 
- 3. Ajusta la frecuencia de corte o banda
+ 3. Ajusta la frecuencia de corte o banda (Sección 3)
 
- 4. Activa o desactiva la visualización FFT
+ 4. Activa o desactiva la visualización FFT (Sección 2)
 
- 5. Haz clic en "Procesar"
+ 5. Haz clic en "Procesar" y visualiza tanto la señal filtrada como la original y su respectiva transformada de Fourier
 
- 6. Descarga el archivo procesado si lo deseas
+ 6. Descarga el audio procesado si lo deseas (Sección final)
+
+![Interfaz 1](https://github.com/user-attachments/assets/24799652-ae59-4cfd-acb9-44d9ed0bfebe)
+![Interfaz 2](https://github.com/user-attachments/assets/ec8899fd-f2f9-4a60-bda0-72e4ccad231a)
 
 
 
