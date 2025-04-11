@@ -50,6 +50,14 @@ Abre tu navegador y entra a:
 
 Python 3.10
 
+## Instalación rápida
+
+Requiere Python 3.8+
+
+```bash
+git clone https://github.com/Juan-117/SI-HSI.git
+cd SI-HSI
+pip install -r requirements.txt
 
 
 # Se utilizan las siguientes librerías:
