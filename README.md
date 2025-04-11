@@ -58,9 +58,10 @@ Requiere Python 3.8+
 git clone https://github.com/Juan-117/SI-HSI.git
 cd SI-HSI
 pip install -r requirements.txt
+```
 
 
-# Se utilizan las siguientes librerías:
+## Se utilizan las siguientes librerías:
 
  gradio
 
